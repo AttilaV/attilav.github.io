@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/AttilaV/attilav.github.io/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[CV](https://github.com/AttilaV/attilav.github.io/Varga_CVf.pdf)
+[CV](https://github.com/AttilaV/attilav.github.io/blob/main/Varga_CVf.pdf)
 
 ### Markdown
 
